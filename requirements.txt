@@ -1,3 +1,4 @@
 xgboost==1.7.4
 streamlit
+scikit-learn
 pickle
